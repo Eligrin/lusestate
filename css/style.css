@@ -289,7 +289,7 @@ input::-webkit-search-results-decoration {
 .header__scroll-down a:before {
   content: "";
   position: absolute;
-  background: url(../../img/svg/arrow_d.svg) no-repeat;
+  background: url(../img/svg/arrow_d.svg) no-repeat;
   width: 13px;
   height: 28px;
   -webkit-transform: rotate(90deg);
